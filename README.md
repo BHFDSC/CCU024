@@ -17,6 +17,12 @@ We will look at how the response to COVID-19 has impacted:
 
 We are hoping that this project will help to improve healthcare now and in the future.
 
+## Sub-projects
+
+The issues outlined above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
+
+* [CCU024_01: Deaths at home, deprivation and the effect of the Covid-19 pandemic: an analysis of mortality data across four nations](https://github.com/BHFDSC/CCU024_01)
+
 ## Project approval
 
 This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCU024).  It successfully received funding through a rapid funding call by Health Data Research UK, Office for National Statistics and UK Research and Innovation (UKRI) as part of the wider Data and Connectivity National Core Study.  The project is led by Irene Higginson and Mevhibe Hocaoglu (King’s College London) and builds on existing UKRI and National Institute for Health Research (NIHR) work to use national data to answer this key COVID-19 research question.
