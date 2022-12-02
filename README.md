@@ -21,8 +21,7 @@ We are hoping that this project will help to improve healthcare now and in the f
 
 The issues outlined above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [CCU024_01: Mind the gaps: understanding and improving out-of-hours care for people with advanced illness and their informal carers](https://github.com/BHFDSC/CCU024_01)
-* [CCU024_02: Deaths at home, deprivation and the effect of the Covid-19 pandemic: an analysis of mortality data across four nations](https://github.com/BHFDSC/CCU024_02)
+* [CCU024_01: Mind the gaps: understanding and improving out-of-hours care for people with advanced illness and their informal carers. Research report.](https://github.com/BHFDSC/CCU024_01)
 
 ## Project approval
 
