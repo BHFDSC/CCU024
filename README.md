@@ -22,6 +22,7 @@ We are hoping that this project will help to improve healthcare now and in the f
 The issues outlined above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
 * [CCU024_01: Mind the gaps: understanding and improving out-of-hours care for people with advanced illness and their informal carers. Research report.](https://github.com/BHFDSC/CCU024_01)
+* [CCU024_02: Association between ethnicity and emergency department visits in the last three months of life in England: a retrospective population-based study using electronic health records](https://github.com/BHFDSC/CCU024_02)
 
 ## Project approval
 
